@@ -1,0 +1,11 @@
+<!doctype.html>
+<html>
+<head>
+</head>
+<body>
+<h1>krithi shetty<h1>
+<p>
+<img src="C:\Users\Sri Lakshmi\OneDrive\Desktop">
+</p>
+</body>
+<html>
